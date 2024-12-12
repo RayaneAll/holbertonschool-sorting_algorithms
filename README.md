@@ -92,7 +92,3 @@ Stability is important when sorting multi-field data and secondary sorting depen
 | Quick Sort        | `O(n log n)` | `O(n log n)` | `O(n^2)`     | No     | Yes      |
 | Merge Sort        | `O(n log n)` | `O(n log n)` | `O(n log n)` | Yes    | No       |
 | Selection Sort    | `O(n^2)`     | `O(n^2)`     | `O(n^2)`     | No     | Yes      |
-
----
-
-For more examples or explanations, feel free to ask!
